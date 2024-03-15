@@ -22,3 +22,11 @@
   display: flex;
   justify-content: space-around;
 }
+.card-title{
+  display: flex;
+  justify-content: space-around;
+}
+.cart-info{
+  display: flex;
+  justify-content: space-around;
+}
